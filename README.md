@@ -1,6 +1,6 @@
 <h1>Lottery system 🤑</h1>
 
-<p>Hello, I hope you like my lottery system with a smart contract!</p>
+<p>Hello, I hope you like my lottery system with solidity!</p>
 
 
 <h2> Installing / Getting started </h2>
